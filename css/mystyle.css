@@ -1,0 +1,24 @@
+h {
+  color: red;
+}
+
+body{
+  background-color: white;
+  color: black;
+}
+
+#encabezado-inicio{
+  border: 4px solid black;
+  margin: 2%;
+  padding: 2%;
+  overflow: hidden;
+  text-align: center;
+}
+
+#encabezado-inicio img{
+
+}
+
+#encabezado-inicio h2{
+
+}
