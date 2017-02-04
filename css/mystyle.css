@@ -31,3 +31,11 @@ th{
 main{
   margin: 5%;
 }
+
+footer a{
+  color: white;
+}
+
+footer a:hover{
+  text-decoration: underline;
+}
